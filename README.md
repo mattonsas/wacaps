@@ -2,8 +2,7 @@
 
 ## Installation
 
-Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.6/installation#installation)
-Used PHP version: 7.3.0
+Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.6/installation#installation) // PHP VERSION: 7.3.0
 
 
 Clone the project repository by running the command below if you use SSH
